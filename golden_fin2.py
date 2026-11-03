@@ -82,7 +82,7 @@ ax.set_xlabel("h (W/(K*m^2))")
 ax.set_ylabel("Fin Effectiveness")
 ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
-plt.title(f"Effectiveness of fins of height {l_f*1000} mm for varying h values")
+# plt.title(f"Effectiveness of fins of height {l_f*1000} mm for varying h values")
 plt.savefig("effectiveness_graph.png")
 
 
