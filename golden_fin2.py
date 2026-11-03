@@ -112,5 +112,8 @@ print(f"h = {h(k, V, nu, Pr, m, C1)}")
 # because this is more reasonable from a manufacturing viewpoint
 # This causes our T_b to be really low, great for chip computing power
 
-
+# Staggering the fins would increase Q
+# Gold is not realistic
+# Fluid properties - reasonable or not?
+# Reasonable aspect ratio for the fin design
 
